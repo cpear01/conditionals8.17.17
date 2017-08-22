@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\bin\Debug\Conditionals8.17.17.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\obj\Debug\Conditionals8.17.17.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\bin\Debug\Conditionals8.17.17.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\bin\Debug\Conditionals8.17.17.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\obj\Debug\Conditionals8.17.17.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Conditionals8.17.17\Conditionals8.17.17\obj\Debug\Conditionals8.17.17.pdb
